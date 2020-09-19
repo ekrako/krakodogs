@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --debug --enable_nbextensions=True dog-Predict.ipynb
+web: voila --port=$PORT --no-browser --debug dog-Predict.ipynb
